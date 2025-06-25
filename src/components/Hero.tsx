@@ -11,9 +11,7 @@ const Hero = () => {
         <div className="max-w-4xl mx-auto animate-fade-in">
           <h1 className="text-5xl md:text-7xl font-montserrat font-bold mb-6 leading-tight">
             Грузоперевозки
-            <span className="block text-4xl md:text-6xl font-semibold mt-2">
-              Россия ⇄ Турция
-            </span>
+            <span className="block text-4xl md:text-6xl font-semibold mt-2"></span>
           </h1>
 
           <p className="text-xl md:text-2xl mb-8 font-open-sans opacity-90">
